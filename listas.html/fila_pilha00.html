@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>Document</title>
+
+    <script>
+      const stack = ["A", "B", "C"];
+      const removedFromStack = stack.pop();
+
+      console.log("LIFO - Pilha");
+      console.log("Pilha original: A, B, C");
+      console.log("Removido: (pop)", removedFromStack);
+      console.log("Pilha agora:", stack);
+
+      const queue = ["1", "2", "3"];
+      const removedFromQueue = queue.shift();
+
+      console.log("FIFO - Fila");
+      console.log("Fila original: 1, 2, 3");
+      console.log("Removido: (shift)", removedFromQueue);
+      console.log("Fila agora:", queue);
+    </script>
+  </head>
+  <body></body>
+</html>
