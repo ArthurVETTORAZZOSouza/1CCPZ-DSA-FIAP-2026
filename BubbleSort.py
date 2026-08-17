@@ -11,3 +11,4 @@ def bubble_sort(lista):
 
 
 print(bubble_sort(numeros))
+# BUSCA PELO MENOR NUMERO E DEIXA ELE EM PRIMEIRO
