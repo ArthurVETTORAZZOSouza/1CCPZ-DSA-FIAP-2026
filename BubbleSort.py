@@ -1,4 +1,4 @@
-numeros = [5, 3, 8, 2, 77]
+numeros = [5, 3, 8, 2]
 
 
 def bubble_sort(lista):
