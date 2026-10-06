@@ -1,7 +1,5 @@
-# Atividade Pratica - Arvores Binarias
-# Calculadora de Expressoes Matematicas com Arvore de Expressao
+# Atividade - Arvores Binarias
 # Aluno: Arthur Vettorazzo de Souza
-
 
 # 4. Estrutura do no
 class No:
